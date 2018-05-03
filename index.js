@@ -43,7 +43,7 @@ var servers = {};
 
 bot.on("ready", function(){
     console.log("Ready");
-    bot.user.setStatus("read to die with Rum");
+    bot.user..setGame("read to die with Rum");
 });
 
 bot.on("guildMemberAdd", function(member){
