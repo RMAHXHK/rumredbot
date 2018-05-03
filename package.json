@@ -4,7 +4,7 @@
   "description": "RED BOT MUSIC",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node bot.js"
   },
   "author": "RM",
   "license": "ISC",
