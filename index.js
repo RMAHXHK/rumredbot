@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
 const YTDL = require("ytdl-core");
 const PREFIX = "R-"
-var bot = new Discord.Client();
+const bot = new Discord.Client();
 
 function play (Connection, message) {
     var server = servers[message.guild.id];
