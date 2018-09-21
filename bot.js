@@ -43,7 +43,7 @@ var servers = {};
 
 bot.on("ready", function(){
     console.log("Ready");
-    bot.user..setGame("read to die with Rum");
+    bot.user..setGame('Rum ❤' , 'https://www.twitch.tv/RMAH_x_HOOK');
 });
 
 bot.on("guildMemberAdd", function(member){
