@@ -64,7 +64,7 @@ bot.on("message", function(message){
     switch (args[0].toLowerCase()){
        
        case "red":
-       message.channel.sendMessage("yea pu**y what u want _-");
+       message.channel.sendMessage("I'm so sorry mom to hear that and I always wish the best for you !");
        break;
 
        case "info":
